@@ -1,0 +1,4 @@
+<launch>
+<node pkg ="my_examples_pkg" type="turtlebot_move_in_circle_service_server.py" name="service_server" output="screen" />
+</launch>
+

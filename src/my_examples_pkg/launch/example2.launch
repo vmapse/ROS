@@ -1,0 +1,3 @@
+<launch>
+<node pkg="my_examples_pkg" type="NAME_OF_EXAMPLE_SCRIPT.py" name="topic_subscriber" output="screen" />
+</launch>
